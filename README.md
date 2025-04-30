@@ -32,4 +32,4 @@ Issued Mar 2025<br>
 Credential ID 8059170<br>
 
 ![Introduction to Cryptography for Beginners](preview/simplelearn.png)
-![view certificate](https://simpli-web.app.link/e/wnyJUjRWYSb)
+![view certificate](https://github.com/vigneshvpalazhi/Basic-Certifications/blob/main/basic%20certs/8059170_84068971742297997061.pdf)
