@@ -7,4 +7,4 @@ Credential ID 833499129<br>
 
 
 ![Introduction to osint](preview/osint.png)
-![download certificate](basic certs/Introduction to OSINT-course.pdf)
+![download certificate](https://github.com/vigneshvpalazhi/Basic-Certifications/blob/main/basic%20certs/Introduction%20to%20OSINT-course.pdf)
